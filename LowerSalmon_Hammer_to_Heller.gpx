@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" xmlns="http://www.topografix.com/GPX/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd" creator="Riverbrain - http://www.riverbrain.com">
+  <wpt lat="45.77183191" lon="-116.32442127">
+    <ele>1427.45</ele>
+    <name>R - Rollercoaster Rapids</name>
+    <cmt>A long string of big, fun waves</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="45.8169619" lon="-116.30685817">
+    <ele>1395.94</ele>
+    <name>R - Big Foot Island Rapids</name>
+    <cmt>Requires some maneuvering; can be run on either side. This is the only island on the Salmon River with an official U.S. Geological Survey name.</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="45.85975409" lon="-116.29817854">
+    <ele>1361.3</ele>
+    <name>R - Green Canyon Rapids</name>
+    <cmt>Tricky in lower water, with numerous rocks and holes.
+Green Canyon -Starts immediately after Shorts Bar. A Class II rapids, which piles into the wall on the right, signals the entry into this 2.5-mile long canyon.</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="45.86647825" lon="-116.3077272">
+    <ele>1357.3</ele>
+    <name>R - Wright-Way Drop Rapid</name>
+    <cmt>This sharp drop, with big waves, takes you into the left wall at the bottom. Long, Class II rapids await you about 100 yards below. Look for two small camp spots after the rapids.</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="45.8757712" lon="-116.31912122">
+    <ele>1336.87</ele>
+    <name>R - Demons Drop Rapid</name>
+    <cmt>Large, curling waves appear here at some flows. Avoid the center area turbulence - it indicates a hole.</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="45.88846619" lon="-116.32744412">
+    <ele>1329.6</ele>
+    <name>R - Pine Bar Rapids</name>
+    <cmt>This steep rock garden, littered with holes, is most difficult in low water</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="45.90157265" lon="-116.40598188">
+    <ele>1296.62</ele>
+    <name>R - The Maze Rapids</name>
+    <cmt>Shallow, hidden rocks and ledges from here to the Rice Creek Bridge require maneuvering and make motorized passage impossible at low water.</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="45.91404714" lon="-116.40928636">
+    <ele>1282.31</ele>
+    <name>R - Long Class II Rapids</name>
+    <cmt>Requires maneuvering at low flows.</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="45.94331497" lon="-116.43754612">
+    <ele>1250.92</ele>
+    <name>R - Unnamed Rapid</name>
+    <cmt>Requires some maneuvering</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="45.952789" lon="-116.43971334">
+    <ele>1243.4</ele>
+    <name>R - Packers Creek Rapids</name>
+    <cmt></cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="45.95770238" lon="-116.4421166">
+    <ele>1239.6</ele>
+    <name>R - Cougar Canyon Rapids</name>
+    <cmt>A long, fun wave train signals the beginning of Cougar Canyon, a steep narrow 5-mile long canyon with few camp spots</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="45.97246297" lon="-116.46983991">
+    <ele>1221.41</ele>
+    <name>R - Cliff Rapids</name>
+    <cmt></cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="45.97374548" lon="-116.47816549">
+    <ele>1219.14</ele>
+    <name>R - Pipeline Rapids</name>
+    <cmt></cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="45.97455823" lon="-116.50468717">
+    <ele>1202.75</ele>
+    <name>R - Lorna’s Lulu Rapid</name>
+    <cmt>The river wants to take you into the wall on the right.</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="45.96970396" lon="-116.52408491">
+    <ele>1196.42</ele>
+    <name>R - Bunghole Rapids</name>
+    <cmt>The waves here get bigger and bigger as the water flow increases.</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="45.97150852" lon="-116.53498541">
+    <ele>1193.66</ele>
+    <name>R -  Lower Bunghole Rapids</name>
+    <cmt>Conversely, these waves get bigger and steeper at low flows.</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="45.97463279" lon="-116.55103575">
+    <ele>1187.88</ele>
+    <name>R - Harm’s Hole Rapids</name>
+    <cmt>A short drop with a big hole on the right.</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="45.98157859" lon="-116.56389962">
+    <ele>1181.66</ele>
+    <name>R - Bodacious Bounce Rapid</name>
+    <cmt>The big, fun waves here get very tricky in low water. Scouting is recommended at flows below 4,000 cfs.</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="46.00238561" lon="-116.58772836">
+    <ele>1151.78</ele>
+    <name>R - The Gobbler Rapid</name>
+    <cmt>These short but turbulent rapids are worth noting.</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="46.0084442" lon="-116.6023625">
+    <ele>1146.04</ele>
+    <name>R - Unnamed Rapid</name>
+    <cmt>The big, vertical rock face below on the right means that Snow Hole is only about 100 yards away</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="46.00889876" lon="-116.60729776">
+    <ele>1145.85</ele>
+    <name>R - Snow Hole Rapids</name>
+    <cmt>This steep drop with huge boulders and holes is relatively straightforward if you’re in the correct spot. It can be very dangerous if you’re not. </cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="46.01316095" lon="-116.62151347">
+    <ele>1137.32</ele>
+    <name>R - Unnamed Rapid</name>
+    <cmt></cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="46.01737811" lon="-116.61804806">
+    <ele>1134.36</ele>
+    <name>R - Unnamed Rapid</name>
+    <cmt></cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="46.03287306" lon="-116.61609541">
+    <ele>1123.21</ele>
+    <name>R - Deep Creek Rapid</name>
+    <cmt></cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="46.03699189" lon="-116.62983905">
+    <ele>1118.98</ele>
+    <name>R - Maloney Creek Rapids</name>
+    <cmt></cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="46.02913381" lon="-116.64906512">
+    <ele>1105.14</ele>
+    <name>R - China Rapids</name>
+    <cmt>This long, blind s-curve rapid is named for Chinese miners who reportedly drowned here while attempting to go through it. Requires maneuvering</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="45.99559591" lon="-116.64947282">
+    <ele>1072.05</ele>
+    <name>R - Billy Creek Rapids</name>
+    <cmt>The creek and rapids are named for a Nez Perce Indian named Salmon River Billy who once lived here. Chief Joseph and his followers forded the Lower Salmon River below the mouth of this creek while fleeing the U.S. Army after the White Bird Battle. Although the water was high, no lives were lost</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="45.99200322" lon="-116.66202555">
+    <ele>1070.91</ele>
+    <name>R - Unnamed Rapid</name>
+    <cmt></cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="45.99672138" lon="-116.67295824">
+    <ele>1067.79</ele>
+    <name>R - Cottonwood Creek Rapid</name>
+    <cmt></cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="45.99576734" lon="-116.69885765">
+    <ele>1157.22</ele>
+    <name>R - Eagle Creek Rapids</name>
+    <cmt>There are some holes and rocks to avoid here.</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="45.96994258" lon="-116.7363442">
+    <ele>1029.98</ele>
+    <name>R - Chine Creek Rapids</name>
+    <cmt>A long string of enjoyable waves. Run is to the right of the island.</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="45.96183631" lon="-116.74801718">
+    <ele>1017.61</ele>
+    <name>R - Skeleton Creek Rapids</name>
+    <cmt>Big waves at the bottom call for some maneuvering.</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="45.93889817" lon="-116.75608526">
+    <ele>995.55</ele>
+    <name>R - Wapshilla Rapids</name>
+    <cmt>This rapid, which features a sharp, turbulent right turn at the bottom, requires some maneuvering.</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="45.90585057" lon="-116.73576484">
+    <ele>973.99</ele>
+    <name>R - Flynn Creek Rapids</name>
+    <cmt>This long, s-turn rapid requires maneuvering in lower water</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="45.90137106" lon="-116.7297567">
+    <ele>971.0</ele>
+    <name>R - Blue Canyon Rapids</name>
+    <cmt></cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="45.88323282" lon="-116.74007784">
+    <ele>963.71</ele>
+    <name>R - Slide Rapid</name>
+    <cmt>Note the massive rockslide on the left, shortly after the powerline crosses the river. This marks Slide Rapids, which ranges from barely a riffle at flows under 10,000 cfs to Class V-VI at flows of 20,000 cfs and higher. In very high water, these are the most dangerous rapids on the Lower Salmon River and unrunnable. These rapids cannot be lined or portaged without great difficulty. </cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="45.88037975" lon="-116.74276005">
+    <ele>960.17</ele>
+    <name>R - H-hole Rapids</name>
+    <cmt>This rock garden is followed in quick succession by staircase rapids, three more Class II drops.</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="45.86876428" lon="-116.75149332">
+    <ele>921.05</ele>
+    <name>R - Sluicebox Rapids</name>
+    <cmt>A long, steep rapid with big waves in lower water.</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="45.86158464" lon="-116.77307974">
+    <ele>918.36</ele>
+    <name>R - Checkerboard Rapids</name>
+    <cmt>A long wave train with some rocks at the bottom.</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="45.8601725" lon="-116.78048263">
+    <ele>914.7</ele>
+    <name>R - Eye of the Needle Rapids</name>
+    <cmt>This short, very turbulent drop is harder than it looks.</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="45.9912139" lon="-116.57405248">
+    <ele>1170.05</ele>
+    <name>R - Half and Half</name>
+    <cmt>River takes a slight left hand turn/bend  Best run is river right/watch for lateral wave bottom right.</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="45.76496159" lon="-116.3245071">
+    <ele>1433.68</ele>
+    <name>A - Put-In - Hammer Creek Access</name>
+    <cmt>From Highway 95 just south of White Bird, ID, turn west onto Doumecq Rd/River Rd.  Follow that across the Salmon River and head north to the putin a couple of miles.</cmt>
+    <sym>Flag, Red</sym>
+  </wpt>
+  <wpt lat="45.89048808" lon="-116.34120653">
+    <ele>1348.04</ele>
+    <name>A - Take-Out - Pine Bar Boat Launch</name>
+    <cmt>This site, used as a take-out for one day trips from Hammer Creek and used as a put-in for longer journeys, features toilets, camp spots, and parking. Note: Potable water in campground - access from beach above rapids.</cmt>
+    <sym>Flag, Red</sym>
+  </wpt>
+  <wpt lat="45.91447074" lon="-116.4154018">
+    <ele>1311.56</ele>
+    <name>A - Put-In - American Bar</name>
+    <cmt>Large sandy beach access ramp (4x4 strongly suggested)  Jet boats use this ramp as a launching location.  Beach area can also be used as a camp (keep ramp (strip of beach) area clear for people launching from this area if you camp here.)</cmt>
+    <sym>Flag, Red</sym>
+  </wpt>
+  <wpt lat="45.79882602" lon="-116.316954">
+    <name>C - Lyon's Bar Camp #1</name>
+    <cmt>On river left.</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="45.81077767" lon="-116.31146084">
+    <name>C - Lyon's Bar Camp #2</name>
+    <cmt>On river left.</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="45.81303467" lon="-116.31093512">
+    <name>C - Lyon's Bar Camp #3</name>
+    <cmt>On river left</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="45.84194607" lon="-116.29781376">
+    <name>C - Opposite Woodruff Camp</name>
+    <cmt>On river left.</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="45.8434932" lon="-116.29634391">
+    <name>C - Woodruff Camp</name>
+    <cmt>River right</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="45.84897879" lon="-116.29695545">
+    <name>C - Schwartz Bar Camp #1</name>
+    <cmt>River left</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="45.85151962" lon="-116.29929434">
+    <name>C - Schwartz Bar Camp #2</name>
+    <cmt>River left.</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="45.89124604" lon="-116.3326181">
+    <name>C - Pine Bar Camp</name>
+    <cmt>Car and raft accessible camping here.</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="45.89406869" lon="-116.35390411">
+    <name>C - Lone Pine Bar Camp</name>
+    <cmt>Large camp spots are available at both the upper and lower end of the bar</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="45.89724959" lon="-116.35841022">
+    <name>C - Lower Lone Pine Bar Camp</name>
+    <cmt>On river left</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="45.93862584" lon="-116.43669854">
+    <name>C - Wickiup Creek Camp</name>
+    <cmt>Three large camp spots in the next mile are some of the last before entering Cougar Canyon</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="45.95012599" lon="-116.43773924">
+    <name>C - Packers Creek (Killer Goat Beach) Camp</name>
+    <cmt>The remains of several Chinese stone cabins and a reservoir make this a popular site.</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="45.97482292" lon="-116.50315295">
+    <name>C - Round Springs Creek Camps</name>
+    <cmt>This area offers several small camp spots ideal for those who want to avoid the crowds at White House Bar!</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="45.97318625" lon="-116.53716336">
+    <name>C - White House Bar Camps</name>
+    <cmt>The two large camp spots here are the last before Show Hole Canyon. Much evidence of historic mining remains, including a large reservoir. The white-washed cabin for which the bar is named has given in to the ravages of time.</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="46.00923408" lon="-116.61918531">
+    <name>C - Oxbow Camp #1</name>
+    <cmt>On river right</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="46.0307651" lon="-116.61405693">
+    <name>C - Deep Creek Camps</name>
+    <cmt>A couple of camps on river left.</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="46.03825057" lon="-116.62563334">
+    <name>C - Maloney Creek Camps</name>
+    <cmt>There are two large, and one small, camp spots at the mouth of the creek at the top of the oxbow. You are now at the most northern point of the Salmon River</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="46.0122072" lon="-116.64426933">
+    <name>C - End of Snow Hole Canyon Camp</name>
+    <cmt>The canyon opens up here and camp spots are abundant for the next 10 miles. On river left</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="46.00843675" lon="-116.64288531">
+    <name>C - End of Snow Hole Canyon Camp #2</name>
+    <cmt>River left</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="46.00509082" lon="-116.64226304">
+    <name>C - End of Snow Hole Canyon Camp #3</name>
+    <cmt>On river left</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="46.00371215" lon="-116.64378653">
+    <name>C - End of Snow Hole Canyon Camp #4</name>
+    <cmt>On river right</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="45.99831636" lon="-116.64553533">
+    <name>C - End of Snow Hole Canyon Camp #5</name>
+    <cmt>On river right</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="45.9945077" lon="-116.6528524">
+    <name>C - Billy Creek Camp</name>
+    <cmt>On river right</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="45.99141995" lon="-116.65728877">
+    <name>C - Dry Creek Camp</name>
+    <cmt>River left</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="45.99385923" lon="-116.66333447">
+    <name>C - Lower Dry Creek Camp</name>
+    <cmt>on river right</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="45.99949394" lon="-116.69162641">
+    <name>C - Deer Creek Camp</name>
+    <cmt>River right, Big beach area, rarely used due to the cabins on the bluff above - there has been floating jet boat doc at this beach for the past few years.</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="45.99569281" lon="-116.70505892">
+    <name>C - Eagle Creek Camp</name>
+    <cmt>River right.  
+The rough, primitive road which enters the canyon from Eagle Creek parallels the river for 5 miles. There are lots of big camp spots in this area, but many are frequently occupied by car campers.</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="45.98594283" lon="-116.71977888">
+    <name>C - Camp</name>
+    <cmt>River left</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="45.97186644" lon="-116.73104416">
+    <name>C - China Creek Camp</name>
+    <cmt>River right</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="45.95934528" lon="-116.74866091">
+    <name>C - Skeleton Creek Camp</name>
+    <cmt>A grove of locust trees on the left provides one of the few shady camp spots on the Lower Salmon River.</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="45.95163281" lon="-116.75227652">
+    <name>C - Camp</name>
+    <cmt>River left</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="45.93719702" lon="-116.75385903">
+    <name>C - Wapshilla Camp</name>
+    <cmt>River left</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="45.89955676" lon="-116.73155914">
+    <name>C - Blue Canyon Camp</name>
+    <cmt>river right</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="45.86238034" lon="-116.76742028">
+    <name>C - Checkerboard Camp</name>
+    <cmt>river left</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="45.85522603" lon="-116.78862046">
+    <name>C - Pullman Mine Camp</name>
+    <cmt>River left.
+Copper mine was active in the 1920s. Mining equipment still visible at the mine entrance was probably brought up the Snake River by steamship.
+ 
+low/lower water camp</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="46.03714165" lon="-116.62885537">
+    <name>C - Lower Maloney Creek</name>
+    <cmt>Gravel/sand bar on river right.  - upper Maloney is the better camp, but if it is taken, this camp can be used as a second option.  There are actually three camps at Maloney - The main Maloney camp is the best, but there are actually two camp sights located on the lower bar.  The middle Maloney camp is above the riffle/rapid (more of a gravel bar) the lower camp can be accessed from the eddy below the riffle - some sand and gravel, willows are taking over the beach area.  (wind can be an issue in these camps).</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="46.03674611" lon="-116.63628708">
+    <name>C - Low water sand bar - river right</name>
+    <cmt>During some low water years (4,000 cfs or less) a large sand bar appears in this area.  It is a really nice camp, but can't be counted on, as some years it is there and some years it is not.  If it is there, the flow has to be less than 4k.  It is a great large group camp during low water summer runs, if it happens to be there.</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="45.86091299" lon="-116.77511087">
+    <name>C - Checkerboard</name>
+    <cmt>nice camp on river left - several sandy benchs for tents, cots, etc.   Can be hard to hit if you are running Checkerboard rapid in the wave train (you sort of need to pull out of main current and float rapid to the left of the current or you will get flushed past the camp).</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="45.85960466" lon="-116.78198467">
+    <name>C - Eye of the Needle</name>
+    <cmt>Camp is on river right just after/behind the basalt wall that forms the bottom lateral wave in "eye of the needle" rapid  The camp is a fairly slanted gravel/sand breach - it is one of the last options before hitting the jet boat freeway that is known as the snake river.  It would make a nice camp in a pinch.</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="45.95316197" lon="-116.43883358">
+    <name>C - unnamed camp</name>
+    <cmt>camp (better in low water) on river right just after the rapid.</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="45.94446467" lon="-116.75497284">
+    <name>C - Large beach camp</name>
+    <cmt>Large Beach camp here (river left).   There are also several smaller beach camps in the area.  (willows hide several nice camp areas at the upper end of the bar).</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="46.00409301" lon="-116.92046514">
+    <name>C - large beach camp</name>
+    <cmt>river left - large beach camp - picnic table</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="46.03475493" lon="-116.93076482">
+    <name>C - Wild Goose camp</name>
+    <cmt>Beach area river left just above wild goose rapid</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="46.07159964" lon="-116.9553124">
+    <name>C - last chance camp</name>
+    <cmt>There are three camps in this area - about 1 mile above the take-out.  The first one is one river left. the second one is at the point on river left and the last one is across the river on river right.  Listed in order of best selection.  this first camp is the best of the three, the next best would be on river left at the point.   I think last last chance camp would be across the river on the right.  I am honestly not sure I would ever want to stay there, but I have seen jet boaters make use of it.</cmt>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="45.85765262" lon="-116.29513423">
+    <name>Pictograph - Short Bar Pictograph</name>
+    <cmt>There is a large pictograph site at the lower end of the bar</cmt>
+    <sym>Pin, Blue</sym>
+  </wpt>
+  <wpt lat="45.90275975" lon="-116.39868627">
+    <name>Historical Place - Cooper Bar</name>
+    <cmt>Named for Ben and Frances Cooper, who settled here in 1908 and operated a ranch and ferry. Water was transported here in a 6-mile ditch from Rice Creek, built by Chinese laborers. The ditch, an engineering marvel in its time, is still visible from the river</cmt>
+    <sym>Pin, Blue</sym>
+  </wpt>
+  <wpt lat="45.90803047" lon="-116.39693211">
+    <name>Historical Place - Rock Creek (also known as Graves Creek)</name>
+    <cmt>In the early 1900s, the old Boise Trail forded the river and a ferry operated at this site. Today, the county road from Cottonwood enters the canyon here. Self-issue permits are located in a box approximately 1/4 mile up the road.</cmt>
+    <sym>Pin, Blue</sym>
+  </wpt>
+  <wpt lat="45.91118072" lon="-116.41074548">
+    <name>Landmark - Rice Creek Bridge</name>
+    <cmt>The stream here may have gotten its name from Chinese mining in the area.</cmt>
+    <sym>Pin, Blue</sym>
+  </wpt>
+  <wpt lat="45.91430839" lon="-116.42121683">
+    <name>Historical Place - American Bar</name>
+    <cmt>Home site of Claude Bell, an early Salmon River gold miner.</cmt>
+    <sym>Pin, Blue</sym>
+  </wpt>
+  <wpt lat="46.01449468" lon="-116.64687644">
+    <name>Historical Place - Cabins</name>
+    <cmt>Everett Spaulding, an early Salmon River jet boat operator, built these cabins.</cmt>
+    <sym>Pin, Blue</sym>
+  </wpt>
+  <wpt lat="45.94432959" lon="-116.76477025">
+    <name>Historical Place - Wapshilla Creek Ranch</name>
+    <cmt>This creek is named after a family of Nez Perce Indians who once lived in this area. Jackson Sundown, a Nez Perce who became a world champion rodeo rider in 1916 at the age of 53, worked on the ranch in this drainage.
+Easy walk to historic ranch located 3/4 mile up Wapshilla Cr. from the Salmon river</cmt>
+    <sym>Pin, Blue</sym>
+  </wpt>
+</gpx>
